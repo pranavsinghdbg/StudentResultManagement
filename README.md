@@ -30,20 +30,20 @@ JDBC (Java Database Connectivity): JDBC is used for seamless interaction between
 
 
 ```
-Option to either in admin or user
+Users have the flexibility to navigate seamlessly between the Admin and Student interfaces
 ```
 
 ![Screenshot (1049)](https://github.com/pranavsinghdbg/StudentResultManagement/assets/141660425/415bd482-f0e0-4cc2-908e-5f05ac10a121)
 
 ```
-Admin panel 
+Administrative Control Pane
 ```
 ![Screenshot (1043)](https://github.com/pranavsinghdbg/StudentResultManagement/assets/141660425/8e9d2639-c2f4-4437-890f-14b0ac45b2f4)
 
 ![Screenshot (1044)](https://github.com/pranavsinghdbg/StudentResultManagement/assets/141660425/5ee2c91e-136d-4ae5-8520-579465330870)
 
 ```
-Add New Student Who Has Not Been Added yet
+Add a new student who has not been added previously
 ```
 ![Screenshot (1045)](https://github.com/pranavsinghdbg/StudentResultManagement/assets/141660425/bcb1d785-aa2f-4dcd-8fe0-9cf86c8a2691)
 
@@ -58,7 +58,7 @@ Add Result of Registered Student
 ![Screenshot (1048)](https://github.com/pranavsinghdbg/StudentResultManagement/assets/141660425/e62cb821-21e5-4233-bf70-e9dfeb264236)
 
 ```
-Student panel
+Student Dashboard
 ```
 ![Screenshot (1050)](https://github.com/pranavsinghdbg/StudentResultManagement/assets/141660425/69852961-13c3-43ec-ac72-a2f327f6310d)
 
