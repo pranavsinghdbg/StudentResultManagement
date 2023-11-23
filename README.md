@@ -36,7 +36,7 @@ Users have the flexibility to navigate seamlessly between the Admin and Student 
 ![Screenshot (1049)](https://github.com/pranavsinghdbg/StudentResultManagement/assets/141660425/415bd482-f0e0-4cc2-908e-5f05ac10a121)
 
 ```
-Administrative Control Pane
+Administrative Control Panel
 ```
 ![Screenshot (1043)](https://github.com/pranavsinghdbg/StudentResultManagement/assets/141660425/8e9d2639-c2f4-4437-890f-14b0ac45b2f4)
 
